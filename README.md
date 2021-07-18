@@ -1,6 +1,6 @@
-# MS client with Nest framework
+# MS producer with Nest framework
 
-- Basic example about a microservices client
+- Basic example about a microservices producer
 
 `Note:` this app require a rabbit instance
 
